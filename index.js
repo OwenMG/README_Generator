@@ -65,7 +65,7 @@ function init() {
         .prompt(questions)
     .then((data) => {
         console.log(data);
-        writeToFile("README.MD",data);
+        writeToFile("README.md",data);
     })
 }
 
