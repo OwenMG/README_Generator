@@ -1,4 +1,15 @@
 # TITLE
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+
+  1. [Description](#description)
+
+  2. [Installation Instructions](#installation-instructions)
+
+  3. [Usage Information](#usage-information)
+
+  4. [Questions](#questions)
 
 ## Description
 
@@ -14,11 +25,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## License
 
+https://opensource.org/licenses/MIT
+
 ## Questions
 
 If you have any questions, you can contact me via:
 | :memo:  [GitHub](https://github.com/GITHUB)   |
 |-----------------------------------------------|
 
-| :memo:  [Email](mailto:EMAIL)                  |
+| :memo:  [Email ](mailto:EMAIL)                 |
 |------------------------------------------------|
